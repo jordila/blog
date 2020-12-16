@@ -1,0 +1,6 @@
+# Baseurl
+# either
+# baseurl: /name_of_the_repo_here
+baseurl:  /blog
+
+permalink: pretty
